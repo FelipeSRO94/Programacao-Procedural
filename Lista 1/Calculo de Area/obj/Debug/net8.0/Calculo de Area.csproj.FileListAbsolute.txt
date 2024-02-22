@@ -1,0 +1,14 @@
+C:\Users\Felipe\Desktop\Lista 2\Calculo de Area\bin\Debug\net8.0\Calculo de Area.exe
+C:\Users\Felipe\Desktop\Lista 2\Calculo de Area\bin\Debug\net8.0\Calculo de Area.deps.json
+C:\Users\Felipe\Desktop\Lista 2\Calculo de Area\bin\Debug\net8.0\Calculo de Area.runtimeconfig.json
+C:\Users\Felipe\Desktop\Lista 2\Calculo de Area\bin\Debug\net8.0\Calculo de Area.dll
+C:\Users\Felipe\Desktop\Lista 2\Calculo de Area\bin\Debug\net8.0\Calculo de Area.pdb
+C:\Users\Felipe\Desktop\Lista 2\Calculo de Area\obj\Debug\net8.0\Calculo de Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Desktop\Lista 2\Calculo de Area\obj\Debug\net8.0\Calculo de Area.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\Lista 2\Calculo de Area\obj\Debug\net8.0\Calculo de Area.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\Lista 2\Calculo de Area\obj\Debug\net8.0\Calculo de Area.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\Lista 2\Calculo de Area\obj\Debug\net8.0\Calculo de Area.dll
+C:\Users\Felipe\Desktop\Lista 2\Calculo de Area\obj\Debug\net8.0\refint\Calculo de Area.dll
+C:\Users\Felipe\Desktop\Lista 2\Calculo de Area\obj\Debug\net8.0\Calculo de Area.pdb
+C:\Users\Felipe\Desktop\Lista 2\Calculo de Area\obj\Debug\net8.0\Calculo de Area.genruntimeconfig.cache
+C:\Users\Felipe\Desktop\Lista 2\Calculo de Area\obj\Debug\net8.0\ref\Calculo de Area.dll

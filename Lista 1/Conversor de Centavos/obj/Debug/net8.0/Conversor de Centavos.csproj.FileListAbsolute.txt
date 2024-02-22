@@ -1,0 +1,14 @@
+C:\Users\Felipe\Desktop\Lista 2\Conversor de Centavos\bin\Debug\net8.0\Conversor de Centavos.exe
+C:\Users\Felipe\Desktop\Lista 2\Conversor de Centavos\bin\Debug\net8.0\Conversor de Centavos.deps.json
+C:\Users\Felipe\Desktop\Lista 2\Conversor de Centavos\bin\Debug\net8.0\Conversor de Centavos.runtimeconfig.json
+C:\Users\Felipe\Desktop\Lista 2\Conversor de Centavos\bin\Debug\net8.0\Conversor de Centavos.dll
+C:\Users\Felipe\Desktop\Lista 2\Conversor de Centavos\bin\Debug\net8.0\Conversor de Centavos.pdb
+C:\Users\Felipe\Desktop\Lista 2\Conversor de Centavos\obj\Debug\net8.0\Conversor de Centavos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Desktop\Lista 2\Conversor de Centavos\obj\Debug\net8.0\Conversor de Centavos.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\Lista 2\Conversor de Centavos\obj\Debug\net8.0\Conversor de Centavos.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\Lista 2\Conversor de Centavos\obj\Debug\net8.0\Conversor de Centavos.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\Lista 2\Conversor de Centavos\obj\Debug\net8.0\Conversor de Centavos.dll
+C:\Users\Felipe\Desktop\Lista 2\Conversor de Centavos\obj\Debug\net8.0\refint\Conversor de Centavos.dll
+C:\Users\Felipe\Desktop\Lista 2\Conversor de Centavos\obj\Debug\net8.0\Conversor de Centavos.pdb
+C:\Users\Felipe\Desktop\Lista 2\Conversor de Centavos\obj\Debug\net8.0\Conversor de Centavos.genruntimeconfig.cache
+C:\Users\Felipe\Desktop\Lista 2\Conversor de Centavos\obj\Debug\net8.0\ref\Conversor de Centavos.dll
