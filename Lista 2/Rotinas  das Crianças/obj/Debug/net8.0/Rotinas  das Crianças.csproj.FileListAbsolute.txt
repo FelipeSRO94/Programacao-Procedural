@@ -1,0 +1,15 @@
+C:\Users\Felipe\Desktop\Programacao-Procedural\Lista 2\Rotinas  das Crianças\bin\Debug\net8.0\Rotinas  das Crianças.exe
+C:\Users\Felipe\Desktop\Programacao-Procedural\Lista 2\Rotinas  das Crianças\bin\Debug\net8.0\Rotinas  das Crianças.deps.json
+C:\Users\Felipe\Desktop\Programacao-Procedural\Lista 2\Rotinas  das Crianças\bin\Debug\net8.0\Rotinas  das Crianças.runtimeconfig.json
+C:\Users\Felipe\Desktop\Programacao-Procedural\Lista 2\Rotinas  das Crianças\bin\Debug\net8.0\Rotinas  das Crianças.dll
+C:\Users\Felipe\Desktop\Programacao-Procedural\Lista 2\Rotinas  das Crianças\bin\Debug\net8.0\Rotinas  das Crianças.pdb
+C:\Users\Felipe\Desktop\Programacao-Procedural\Lista 2\Rotinas  das Crianças\obj\Debug\net8.0\Rotinas  das Crianças.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Desktop\Programacao-Procedural\Lista 2\Rotinas  das Crianças\obj\Debug\net8.0\Rotinas  das Crianças.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\Programacao-Procedural\Lista 2\Rotinas  das Crianças\obj\Debug\net8.0\Rotinas  das Crianças.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\Programacao-Procedural\Lista 2\Rotinas  das Crianças\obj\Debug\net8.0\Rotinas  das Crianças.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\Programacao-Procedural\Lista 2\Rotinas  das Crianças\obj\Debug\net8.0\Rotinas  das Crianças.sourcelink.json
+C:\Users\Felipe\Desktop\Programacao-Procedural\Lista 2\Rotinas  das Crianças\obj\Debug\net8.0\Rotinas  das Crianças.dll
+C:\Users\Felipe\Desktop\Programacao-Procedural\Lista 2\Rotinas  das Crianças\obj\Debug\net8.0\refint\Rotinas  das Crianças.dll
+C:\Users\Felipe\Desktop\Programacao-Procedural\Lista 2\Rotinas  das Crianças\obj\Debug\net8.0\Rotinas  das Crianças.pdb
+C:\Users\Felipe\Desktop\Programacao-Procedural\Lista 2\Rotinas  das Crianças\obj\Debug\net8.0\Rotinas  das Crianças.genruntimeconfig.cache
+C:\Users\Felipe\Desktop\Programacao-Procedural\Lista 2\Rotinas  das Crianças\obj\Debug\net8.0\ref\Rotinas  das Crianças.dll

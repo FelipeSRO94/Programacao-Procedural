@@ -1,0 +1,15 @@
+C:\Users\Felipe\Desktop\Programacao-Procedural\Lista 2\Senhas if else\bin\Debug\net8.0\Senhas if else.exe
+C:\Users\Felipe\Desktop\Programacao-Procedural\Lista 2\Senhas if else\bin\Debug\net8.0\Senhas if else.deps.json
+C:\Users\Felipe\Desktop\Programacao-Procedural\Lista 2\Senhas if else\bin\Debug\net8.0\Senhas if else.runtimeconfig.json
+C:\Users\Felipe\Desktop\Programacao-Procedural\Lista 2\Senhas if else\bin\Debug\net8.0\Senhas if else.dll
+C:\Users\Felipe\Desktop\Programacao-Procedural\Lista 2\Senhas if else\bin\Debug\net8.0\Senhas if else.pdb
+C:\Users\Felipe\Desktop\Programacao-Procedural\Lista 2\Senhas if else\obj\Debug\net8.0\Senhas if else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Desktop\Programacao-Procedural\Lista 2\Senhas if else\obj\Debug\net8.0\Senhas if else.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\Programacao-Procedural\Lista 2\Senhas if else\obj\Debug\net8.0\Senhas if else.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\Programacao-Procedural\Lista 2\Senhas if else\obj\Debug\net8.0\Senhas if else.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\Programacao-Procedural\Lista 2\Senhas if else\obj\Debug\net8.0\Senhas if else.sourcelink.json
+C:\Users\Felipe\Desktop\Programacao-Procedural\Lista 2\Senhas if else\obj\Debug\net8.0\Senhas if else.dll
+C:\Users\Felipe\Desktop\Programacao-Procedural\Lista 2\Senhas if else\obj\Debug\net8.0\refint\Senhas if else.dll
+C:\Users\Felipe\Desktop\Programacao-Procedural\Lista 2\Senhas if else\obj\Debug\net8.0\Senhas if else.pdb
+C:\Users\Felipe\Desktop\Programacao-Procedural\Lista 2\Senhas if else\obj\Debug\net8.0\Senhas if else.genruntimeconfig.cache
+C:\Users\Felipe\Desktop\Programacao-Procedural\Lista 2\Senhas if else\obj\Debug\net8.0\ref\Senhas if else.dll
