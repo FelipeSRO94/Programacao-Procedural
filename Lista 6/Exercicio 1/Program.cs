@@ -18,14 +18,14 @@ class Program
         string nomeBusca = Console.ReadLine();
 
         bool achou = false;
-        for (int contador = 0; contador < nomes.length; contador++)
+        for (int contador = 0; contador < nome.GetLength(0); contador++)
         {
-            if (nome[i] == nomeBusca)
+            if (nome[contador] == nomeBusca)
             {
-                nomeBusca = true;
+                achou = true;
             }
-
-            if (nomeBusca)
+        }
+            if (achou)
             {
                 System.Console.WriteLine("Achou!");
             }
@@ -33,6 +33,5 @@ class Program
             {
                 System.Console.WriteLine("Nome não encontrado");
             }
-        }
     }
 }
